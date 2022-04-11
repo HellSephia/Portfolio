@@ -31,6 +31,10 @@ header {
     bottom: 3rem;
 }
 
+.icon {
+    color: var(--color-white);
+}
+
 .header_socials::after {
     content: "";
     width: 1px;
