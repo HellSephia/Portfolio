@@ -37,7 +37,9 @@ const about = () => {
             </article>
           </div>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae massa rutrum, pharetra augue id, malesuada turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi ac dolor nec enim congue condimentum a nec nulla. Integer non erat accumsan, porttitor risus sit amet, venenatis leo. Vestibulum venenatis urna id sem ullamcorper elementum. Sed porta velit nec quam interdum, in pretium justo mollis
+          Hello! My name is Cristian Montoya López, I am 18 years old, I am a Colombian citizen, eager to learn and develop through the world of technology and development, currently, I am still in my stage of learning and discovering the different technologies and programming languages that every day are updated and likewise, different.
+
+          However, with much encouragement to learn, on this page you can find a little of my advances throughout this world, what are you waiting for to venture?
           </p>
 
           <a href='#contact' className='btn btn-primary'> Let's talk</a>
